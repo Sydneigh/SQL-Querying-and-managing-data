@@ -1,5 +1,5 @@
 
-SQL: Querying and managing data
+ SQL: Querying and managing data
 
 Marvel Characters
 
